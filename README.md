@@ -18,11 +18,11 @@ sqflite
 
 ## Preview
 
-<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/1.jpg" width="425" height="350" hspace="20"/> <img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/2.jpg" width="425" height="350" hspace="20"/> 
-<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/3.jpg" width="425" height="350" hspace="20"/> <img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/4.jpg" width="425" height="350" hspace="20"/> 
-<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/5.jpg" width="425" height="350" hspace="20"/> <img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/6.jpg" width="425" height="350" hspace="20"/> 
-<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/7.jpg" width="425" height="350" hspace="20"/> <img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/8.jpg" width="425" height="350" hspace="20"/> 
-<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/9.jpg" width="425" height="350" hspace="20"/> 
+<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/1.jpg" width="425"  hspace="20"/> <img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/2.jpg" width="425"  hspace="20"/> 
+<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/3.jpg" width="425" hspace="20"/> <img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/4.jpg" width="425" hspace="20"/> 
+<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/5.jpg" width="425" hspace="20"/> <img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/6.jpg" width="425" hspace="20"/> 
+<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/7.jpg" width="425" hspace="20"/> <img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/8.jpg" width="425" hspace="20"/> 
+<img src="https://github.com/mahajanayush77/notekeeper/blob/master/ss/9.jpg" width="425" hspace="20"/> 
 
 
 ## Getting Started
