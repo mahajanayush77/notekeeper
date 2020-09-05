@@ -5,8 +5,8 @@ import 'package:path_provider/path_provider.dart';
 import '../model/notes.dart';
 
 class DatabaseHelper {
-  static DatabaseHelper _databaseHelper; // Singleton DatabaseHelper
-  static Database _database; // Singleton Database
+  static DatabaseHelper _databaseHelper;
+  static Database _database;
 
   String noteTable = 'note_table';
   String colId = 'id';
@@ -16,7 +16,7 @@ class DatabaseHelper {
   String colColor = 'color';
   String colDate = 'date';
 
-  DatabaseHelper._createInstance(); // Named constructor to create instance of DatabaseHelper
+  DatabaseHelper._createInstance();
 
   factory DatabaseHelper() {
     if (_databaseHelper == null) {
