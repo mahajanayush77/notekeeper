@@ -18,15 +18,9 @@ sqflite
 
 ## Preview
 
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/1.jpg)
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/2.jpg)
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/3.jpg)
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/4.jpg)
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/5.jpg)
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/6.jpg)
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/7.jpg)
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/8.jpg)
-![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/9.jpg)
+![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/1.jpg)![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/2.jpg)![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/3.jpg)
+![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/4.jpg)![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/5.jpg)![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/6.jpg)
+![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/7.jpg)![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/8.jpg)![Preview](https://github.com/mahajanayush77/notekeeper/blob/master/ss/9.jpg)
 
 ## Getting Started
 
