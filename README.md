@@ -1,6 +1,21 @@
-# notekeeper
+# Notekeeper
 
-A new Flutter application.
+Notekeeper is a simple app used for taking notes. Priority of notes is also added.
+It is cross platform as it is built using flutter.
+
+## Tech Stack
+
+Flutter SDK
+sqflite
+
+## Features
+
+* Add a new note with color, priority, title and description
+* Edit a note
+* Delete a note
+* Search for a note 
+* Change the list view of notes (grid/listview)
+
 
 ## Getting Started
 
